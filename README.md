@@ -1,2 +1,2 @@
-# jpsabour.github.io
+# Website
 Static hosting for www.JohnSabour.com
